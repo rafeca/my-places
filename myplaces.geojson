@@ -59,6 +59,54 @@
         "date": "1994-07-01",
         "id": "Granpas trip"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 2.352222, 48.856614 ]
+      },
+      "properties": {
+        "name": "Paris",
+        "date": "1996-07-01",
+        "id": "English summer trip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 0.119824, 51.511214 ]
+      },
+      "properties": {
+        "name": "London",
+        "date": "1996-07-01",
+        "id": "English summer trip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 0.573453, 50.854259 ]
+      },
+      "properties": {
+        "name": "Hastings",
+        "date": "1996-07-01",
+        "id": "English summer trip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -1.257726, 51.752021 ]
+      },
+      "properties": {
+        "name": "Oxford",
+        "date": "1996-07-01",
+        "id": "English summer trip"
+      }
     }
   ]
 }
