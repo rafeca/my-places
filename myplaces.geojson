@@ -5,10 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          2.167139,
-          41.386308
-        ]
+        "coordinates": [ 2.167139, 41.386308 ]
       },
       "properties": {
         "name": "Barcelona",
@@ -20,10 +17,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          3.017571,
-          39.695263
-        ]
+        "coordinates": [ 3.017571, 39.695263 ]
       },
       "properties": {
         "name": "Mallorca",
@@ -35,14 +29,35 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          13.406091,
-          52.519171
-        ]
+        "coordinates": [ 13.406091, 52.519171 ]
       },
       "properties": {
         "name": "Berlin",
         "date": "1982-11-01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.315515, 45.440847 ]
+      },
+      "properties": {
+        "name": "Venice",
+        "date": "1994-07-01",
+        "id": "Granpas trip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 7.962660, 46.536800 ]
+      },
+      "properties": {
+        "name": "Yungfrau mountain",
+        "date": "1994-07-01",
+        "id": "Granpas trip"
       }
     }
   ]
