@@ -143,6 +143,18 @@
         "date": "1998-07-01",
         "id": "US summer trip"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -84.512020, 39.103118 ]
+      },
+      "properties": {
+        "name": "Cincinnati",
+        "date": "1999-09-01",
+        "id": "School interchange"
+      }
     }
   ]
 }
