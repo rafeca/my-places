@@ -107,6 +107,18 @@
         "date": "1996-07-01",
         "id": "English summer trip"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -6.260310, 53.349805 ]
+      },
+      "properties": {
+        "name": "Dublin",
+        "date": "1997-07-01",
+        "id": "Ireland summer trip"
+      }
     }
   ]
 }
