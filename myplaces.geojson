@@ -15,6 +15,21 @@
         "date": "1982-07-07",
         "marker-symbol": "star"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.017571,
+          39.695263
+        ]
+      },
+      "properties": {
+        "name": "Mallorca",
+        "date": "1982-08-01",
+        "notes": "each summer of my life"
+      }
     }
   ]
 }
