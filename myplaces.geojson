@@ -119,6 +119,30 @@
         "date": "1997-07-01",
         "id": "Ireland summer trip"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -74.005973, 40.714353 ]
+      },
+      "properties": {
+        "name": "New York",
+        "date": "1998-07-01",
+        "id": "US summer trip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -75.163789, 39.952335 ]
+      },
+      "properties": {
+        "name": "Philadelphia",
+        "date": "1998-07-01",
+        "id": "US summer trip"
+      }
     }
   ]
 }
