@@ -69,7 +69,10 @@
       "properties": {
         "name": "Paris",
         "date": "1996-07-01",
-        "id": "English summer trip"
+        "id": "English summer trip",
+        "additional_times": [
+          "2001-02-01"
+        ]
       }
     },
     {
