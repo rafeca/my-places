@@ -30,6 +30,20 @@
         "date": "1982-08-01",
         "notes": "each summer of my life"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406091,
+          52.519171
+        ]
+      },
+      "properties": {
+        "name": "Berlin",
+        "date": "1982-11-01"
+      }
     }
   ]
 }
